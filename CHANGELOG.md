@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`adfa457`](https://github.com/stdlib-js/stdlib/commit/adfa4575e7715273bb374e76860236608ca4a165) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`30e9248`](https://github.com/stdlib-js/stdlib/commit/30e9248786968c4cc5e197203f8da2ff43fa847c) - **feat:** add `stats/strided/dvariancech` _(by Aayush Khanna)_
 
 </details>
